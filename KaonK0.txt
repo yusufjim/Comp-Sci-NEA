@@ -1,0 +1,20 @@
+Date of Discovery: 1947
+
+Description: A kaon is any of a group 
+of four mesons distinguished by a 
+quantum number called strangeness. 
+In the quark model they are 
+understood to be bound states of a 
+strange quark (or antiquark) and 
+an up or down antiquark (or quark).
+
+Kaons have proved to be a copious 
+source of information on the nature 
+of fundamental interactions since their 
+discovery in cosmic rays in 1947. 
+They were essential in establishing 
+the foundations of the Standard Model
+of particle physics
+
+Mass: 497.65MeV/c^2
+

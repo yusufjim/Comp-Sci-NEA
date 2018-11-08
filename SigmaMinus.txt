@@ -1,0 +1,17 @@
+Date of Discovery: 1953
+
+Description: 
+
+The Sigma baryons are a family of 
+subatomic hadron particles which have
+two quarks from the first flavour 
+generation (up and/or down quarks),
+and a third quark from 
+higher flavour generations.
+
+The mean lifetime of a Sigma 
+(negative) particle is roughly 
+1.5 x 10^-10 s.
+
+Mass: 1,197.45MeV/c^2
+

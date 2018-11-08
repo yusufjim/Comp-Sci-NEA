@@ -1,0 +1,20 @@
+Date of Discovery: 1935
+
+Description: A minus pion is part of
+a the pion family which are the lightest
+of mesons (and thus the lightest hadrons). 
+This particle decays in 26 nanoseconds
+into muons and muon neutrinos.
+
+Pions are not produced in radioactive
+decay, but are commonly produced 
+in high energy accelerators in 
+collisions between hadrons. All types
+of pions are also produced in natural
+processes when high energy cosmic ray
+protons and other hadronic cosmic ray
+components interact with matter in 
+the Earth's atmosphere.
+
+Mass: 139.57MeV/c^2
+

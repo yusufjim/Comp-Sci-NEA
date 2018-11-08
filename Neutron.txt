@@ -1,0 +1,18 @@
+Date of Discovery: 1932
+
+Description: The neutron is a subatomic
+particle, with no net electric charge
+and a mass slightly larger than that
+of a proton. 
+
+The chemical and nuclear properties 
+of the nucleus are determined 
+by the no. of neutrons and protons.
+
+The neutron is essential to the 
+production of nuclear power.
+Free neutrons, while not directly 
+ionizing atoms, cause ionizing 
+radiation.
+
+Mass: 939.57 MeV/c^2

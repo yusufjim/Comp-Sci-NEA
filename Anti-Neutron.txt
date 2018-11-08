@@ -1,0 +1,18 @@
+Date of Discovery: 1956
+
+Description: The antineutron is the 
+antiparticle of the neutron. 
+It differs from the neutron only in 
+that some of its properties 
+have equal magnitude but opposite sign. 
+
+It has the same mass as the neutron, 
+and no net electric charge, but has 
+opposite baryon number (+1 for neutron,
+-1 for the antineutron). This is 
+because the antineutron is composed 
+of antiquarks, while neutrons are 
+composed of quarks.
+
+Mass: 939.57 MeV/c^2
+

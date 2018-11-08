@@ -1,0 +1,19 @@
+Date of Discovery: 1886
+
+Description:
+
+A proton is a subatomic particle with
+a positive electric charge of +1e 
+elementary charge and mass slightly
+less than that of a neutron
+
+One or more protons are present 
+in the nucleus of every atom;
+they are a necessary part of 
+the nucleus
+
+The number of protons in the 
+nucleus is the defining property 
+of an element
+
+Mass: 938.27MeV/c^2
